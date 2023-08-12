@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="logo.jpg" alt="Alt text" title="Sandeep GitHub">
 
 <!--
 **KonthamSandeep/KonthamSandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
